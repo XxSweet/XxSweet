@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxSweet&theme=transparent&show_icons=true)
+
+![Snake animation](https://github.com/Xxsweet/XxSweet/blob/output/github-contribution-grid-snake.svg)
